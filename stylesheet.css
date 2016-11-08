@@ -1,0 +1,11 @@
+#advertising{
+	border: 0.2em solid grey;
+  width: 100%;
+  min-width: 50%
+  height: 60px;
+}
+#logo {
+	border: 0.2em solid grey;
+  width: 100px;
+  height: 60px;
+}
